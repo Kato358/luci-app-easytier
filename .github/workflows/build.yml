@@ -55,7 +55,7 @@ jobs:
           
         sdk:
           - 22.03.7
-          # - SNAPSHOT
+          - SNAPSHOT
 
     steps:
       - uses: actions/checkout@v6
